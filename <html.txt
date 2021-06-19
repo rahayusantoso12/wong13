@@ -1,0 +1,100 @@
+<html lang="id">
+ <head>
+   <title>Lupa Kata Sandi | Tidak Dapat Masuk | Facebook</title>
+     <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1">
+       <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/gB76kJXPYJV.png" rel="shortcut icon" sizes="196x196">
+         <meta name="referrer" content="default" id="meta_referrer">
+           <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yw/l/0,cross/Z5V3cmmGl0O.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="+JP+kjV">
+             <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/ym/l/0,cross/QtLbgMQ-FMa.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="r+Dyt4o">
+               <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/WWuUGyzcqcH.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="cPaD5Jr"> 
+                 <meta name="description" content="Login ke Facebook untuk mulai membagikan sesuatu dan berhubungan dengan teman, keluarga, dan orang-orang yang Anda kenal.">
+                   <meta property="og:site_name" content="Facebook">
+                     <meta property="og:type" content="website">
+                       <meta property="og:title" content="Masuk Facebook | Facebook">
+                         <meta property="og:description" content="Login ke Facebook untuk mulai membagikan sesuatu dan berhubungan dengan teman, keluarga, dan orang-orang yang Anda kenal.">
+                           <meta property="og:image" content="https://www.facebook.com/images/fb_icon_325x325.png">
+                             <meta property="og:url" content="https://www.facebook.com/">
+                               <link rel="alternate" hreflang="x-default" href="https://www.facebook.com/">
+                                 <link rel="alternate" hreflang="en" href="https://www.facebook.com/">
+                                   <link rel="alternate" hreflang="ar" href="https://m.facebook.com/?locale2=ar_AR">
+                                     <link rel="alternate" hreflang="bg" href="https://m.facebook.com/?locale2=bg_BG">
+                                       <link rel="alternate" hreflang="bs" href="https://m.facebook.com/?locale2=bs_BA">
+                                         <link rel="alternate" hreflang="ca" href="https://m.facebook.com/?locale2=ca_ES">
+                                           <link rel="alternate" hreflang="da" href="https://m.facebook.com/?locale2=da_DK">
+                                             <link rel="alternate" hreflang="el" href="https://m.facebook.com/?locale2=el_GR">
+                                               <link rel="alternate" hreflang="es" href="https://m.facebook.com/?locale2=es_LA">
+                                                 <link rel="alternate" hreflang="es-es" href="https://m.facebook.com/?locale2=es_ES">
+                                                   <link rel="alternate" hreflang="fa" href="https://m.facebook.com/?locale2=fa_IR">
+                                                     <link rel="alternate" hreflang="fi" href="https://m.facebook.com/?locale2=fi_FI">
+                                                       <link rel="alternate" hreflang="fr" href="https://m.facebook.com/?locale2=fr_FR">
+                                                         <link rel="alternate" hreflang="fr-ca" href="https://m.facebook.com/?locale2=fr_CA">
+                                                           <link rel="alternate" hreflang="hi" href="https://m.facebook.com/?locale2=hi_IN">
+                                                             <link rel="alternate" hreflang="hr" href="https://m.facebook.com/?locale2=hr_HR">
+                                                               <link rel="alternate" hreflang="id" href="https://m.facebook.com/?locale2=id_ID">
+                                                                 <link rel="alternate" hreflang="it" href="https://m.facebook.com/?locale2=it_IT">
+                                                                   <link rel="alternate" hreflang="ko" href="https://m.facebook.com/?locale2=ko_KR">
+                                                                     <link rel="alternate" hreflang="mk" href="https://m.facebook.com/?locale2=mk_MK">
+                                                                       <link rel="alternate" hreflang="ms" href="https://m.facebook.com/?locale2=ms_MY">
+                                                                         <link rel="alternate" hreflang="pl" href="https://m.facebook.com/?locale2=pl_PL">
+                                                                           <link rel="alternate" hreflang="pt" href="https://m.facebook.com/?locale2=pt_BR">
+                                                                             <link rel="alternate" hreflang="pt-pt" href="https://m.facebook.com/?locale2=pt_PT">
+                                                                               <link rel="alternate" hreflang="ro" href="https://m.facebook.com/?locale2=ro_RO">
+                                                                                 <link rel="alternate" hreflang="sl" href="https://m.facebook.com/?locale2=sl_SI">
+                                                                                   <link rel="alternate" hreflang="sr" href="https://m.facebook.com/?locale2=sr_RS">
+                                                                                     <link rel="alternate" hreflang="th" href="https://m.facebook.com/?locale2=th_TH">
+                                                                                       <link rel="alternate" hreflang="vi" href="https://m.facebook.com/?locale2=vi_VN">
+                                                                                         <link rel="canonical" href="https://www.facebook.com/login/">
+                                                                                           <link rel="manifest" href="/data/manifest/" crossorigin="use-credentials">
+                                                                                             <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/0GOwANuGv1f.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                               <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/QORfOmOFsyM.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                 <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yb/r/z0NIrLiYc53.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                   <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yI/r/nG_cDrUNGWV.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                     <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yu/r/bv4kW9V65rV.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                       <link href="https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/JopZtdti8dq.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                         <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/1yNNcPhiaca.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                           <link href="https://static.xx.fbcdn.net/rsrc.php/v3iv9n4/yH/l/id_ID/UVY-MHQQqnq.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                             <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/FifJVM-0RB9.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                               <link href="https://static.xx.fbcdn.net/rsrc.php/v3iS7U4/yH/l/id_ID/lSW75Nle-JZ.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                                 <link href="https://static.xx.fbcdn.net/rsrc.php/v3i8594/yF/l/id_ID/MqOyAd1fb0K.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                                   <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/BwjU4B_qfpp.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script"> 
+                                                                                                                     <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yq/l/0,cross/DuueZEP3Xy7.css?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="style">
+                                                                                                                       <link rel="stylesheet" type="text/css" href="https://static.xx.fbcdn.net/rsrc.php/v3/yq/l/0,cross/DuueZEP3Xy7.css?_nc_x=Ij3Wp8lg5Kz">
+                                                                                                                         <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/OPV9IWIdJEq.css?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="style">
+                                                                                                                           <link rel="stylesheet" type="text/css" href="https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/OPV9IWIdJEq.css?_nc_x=Ij3Wp8lg5Kz">
+                                                                                                                            </head>
+                                                                                                                             <body tabindex="0" class="touch x2 android _fzu _50-3 iframe acw portrait" style="min-height: 615px; background-color: rgb(255, 255, 255);"> 
+                                                                                                                               <div id="viewport" data-kaios-focus-transparent="1" style="min-height: 615px;">
+                                                                                                                                  <h1 style="display:block;height:0;overflow:hidden;position:absolute;width:0;padding:0">Facebook</h1>
+                                                                                                                                     <div id="page">
+                                                                                                                                         <div class="_129_" id="header-notices"></div>
+                                                                                                                                             <div class="acw" id="root" role="main" data-sigil="context-layer-root content-pane" style="min-height: 615px;">
+                                                                                                                                                  <div class="_7om2 _98fc" id="header">
+                                                                                                                                                        <div class="_4g34">
+                                                                                                                                                               <a href="/home.php">
+                                                                                                                                                                       <div class="_98d6">
+                                                                                                                                                                                <img class="_98d5 img" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg" alt="Facebook">
+                                                                                                                                                                                        </div></a>
+                                                                                                                                                                                               <hr style="background-color:#cccccc;height:1px;border:0px solid #fff;margin:0.3em auto;width:100%;" class="_98d7">
+                                                                                                                                                                                                     </div>
+                                                                                                                                                                                                          </div>
+                                                                                                                                                                                                               <div class="_7om2">
+                                                                                                                                                                                                                     <div class="_4g34 _98fb">
+                                                                                                                                                                                                                            <div class="_5yd0 _2ph- _5yd1">
+                                                                                                                                                                                                                                    <div class="_52jc">
+                                                                                                                                                                                                                                             Kata sandi yang Anda masukkan salah, tetapi kami bisa membantu Anda kembali ke akun. 
+                                                                                                                                                                                                                                                      <strong><a href="/login/?lara_cancel=1&amp;privacy_mutation_token=eyJ0eXBlIjo1LCJjcmVhdGlvbl90aW1lIjoxNjI0MDUyMTAzfQ%3D%3D" class="_8qcx">Coba lagi dengan info login yang berbeda</a></strong>.
+                                                                                                                                                                                                                                                              </div>
+                                                                                                                                                                                                                                                                     </div>
+                                                                                                                                                                                                                                                                            <p class="_6w8i" id="account_recovery_initiate_view_label">Kami Bisa Mengirimi Anda Kode Login</p>
+                                                                                                                                                                                                                                                                                   <div class="_7vd1">
+                                                                                                                                                                                                                                                                                           <div class="_6w8f">
+                                                                                                                                                                                                                                                                                                    <section class="_2pid _2pis _8s65 _7bro">
+                                                                                                                                                                                                                                                                                                              Kami akan mengirim kode ke +************62.
+                                                                                                                                                                                                                                                                                                                       </section>
+                                                                                                                                                                                                                                                                                                                                <form method="post" action="/ajax/recover/initiate/?ctx=strong_rec_continue&amp;sr=0&amp;ars=m_lara_first_password_failure" id="contact_point_selector_form">
+                                                                                                                                                                                                                                                                                                                                          <input type="hidden" name="lsd" value="AVp78NGyreo" autocomplete="off">
+                                                                                                                                                                                                                                                                                                                                                    <input type="hidden" name="jazoest" value="2970" autocomplete="off">
+                                                                                                                                                                                                                                                                                                                                                              <section class="_56be _3fh7 _7br0 _9b-r">
+                                                                                                                                                                                                                                                                                                                                                                         <div class="_55wo _55wr _55x2 _56bf">
+                                                                                                                                                                                                                                                                                                                                                                                     <section class="_7br1">
+                                                                                                                                                                    
